@@ -1,2 +1,3 @@
-# next-web-app-rnjc
-A web application for modern development workflows
+# Next Web App Rnjc
+
+A web application for modern development workflows.
